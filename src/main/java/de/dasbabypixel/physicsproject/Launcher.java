@@ -4,6 +4,7 @@ public class Launcher {
 
 	public static void main(String[] args) {
 		PhysicsApplication.launch(PhysicsApplication.class, args);
+//		ChartPerformanceGraph.launch(ChartPerformanceGraph.class, args);
 	}
 
 }
